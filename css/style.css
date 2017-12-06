@@ -11,7 +11,7 @@
 }
 body {
 	background: url(../images/bg-body.jpg) repeat;
-	color: green;
+	color: red;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	line-height: 1;
@@ -479,7 +479,7 @@ body {
 	line-height: 48px;
 }
 #body .games .aside {
-	background: url(../images/border.gif) repeat-x top left;
+	background-color: green;
 	float: left;
 	margin: 0 0 0 30px;
 	padding: 3px 0 0;
@@ -632,7 +632,7 @@ body {
 #body .blog .content ul li .header span a {
 	color: #bababa;
 	display: block;
-	float: left;
+	float: right;
 	font-size: 10px;
 	height: 23px;
 	line-height: 23px;
@@ -674,7 +674,7 @@ body {
 }
 #body .blog .content ul li .article p a.more {
 	background: url("../images/bg-more.png") no-repeat center center;
-	color: #bababa;
+	color: red;
 	display: inline-block;
 	font-size: 10px;
 	font-weight: normal;
@@ -688,7 +688,7 @@ body {
 	width: 70px;
 }
 #body .blog .content ul li .article p a.more:hover {
-	color: #fff;
+	color: green;
 }
 #body .blog .sidebar {
 	background: url(../images/border.gif) repeat-x top left;
@@ -731,7 +731,7 @@ body {
 	color: #fff;
 }
 #body .blog .sidebar div span a.selected {
-	color: #fff;
+	color: gray;
 	background: #000;
 	border: 1px solid #22272a;
 	border-radius: 6px;
@@ -748,7 +748,7 @@ body {
 	background: none;
 }
 #body .blog .sidebar ul li > a {
-	color: #727272;
+	color: blue;
 	display: block;
 	line-height: 24px;
 	padding: 0 0 5px;
@@ -758,7 +758,7 @@ body {
 	color: #a3a3a3
 }
 #body .blog .sidebar ul li span {
-	background: #181818;
+	background: green;
 	border: 1px solid #22272a;
 	border-radius: 4px;
 	display: inline-block;
@@ -767,10 +767,10 @@ body {
 	padding: 0;
 }
 #body .blog .sidebar ul li span a {
-	color: #bababa;
+	color: purple;
 	display: block;
 	float: left;
-	font-size: 10px;
+	font-size: 6px;
 	height: 23px;
 	line-height: 23px;
 	margin: 0;
@@ -839,7 +839,7 @@ body {
 	background-position: -78px -156px;
 }
 #footer p {
-	color: #4e5151;
+	color: red;
 	font-size: 12px;
 	margin: 0;
 	padding: 0;
